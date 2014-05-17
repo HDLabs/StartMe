@@ -1,7 +1,6 @@
 package com.hdlabs.startme;
 
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
+
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,18 +9,17 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
+import org.apache.cordova.DroidGap;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends  DroidGap  {
 
 	@Override
-	protected void onCreate(Bundle savedInstanceState) {
+	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		super.loadUrl("http://www.domexedata.in/main/");
 
-		if (savedInstanceState == null) {
-			getSupportFragmentManager().beginTransaction()
-					.add(R.id.container, new PlaceholderFragment()).commit();
-		}
+		
 	}
 
 	@Override
