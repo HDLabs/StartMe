@@ -1,0 +1,36 @@
+[17-May-2014 19:15:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/domexcp/public_html/main/add_products.php on line 14
+[17-May-2014 19:15:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/domexcp/public_html/main/add_products.php on line 14
+[17-May-2014 19:16:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/domexcp/public_html/main/add_products.php on line 15
+[17-May-2014 19:16:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/domexcp/public_html/main/add_products.php on line 15
+[17-May-2014 19:22:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$price' (T_VARIABLE) in /home/domexcp/public_html/main/add_products.php on line 16
+[17-May-2014 19:23:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/domexcp/public_html/main/add_products.php on line 24
+[17-May-2014 19:25:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/domexcp/public_html/main/add_products.php on line 39
+[17-May-2014 23:14:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:14:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:15:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:15:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:16:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:17:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:19:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:20:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 17
+[17-May-2014 23:23:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 22
+[17-May-2014 23:24:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/domexcp/public_html/main/login.php on line 22
+[18-May-2014 00:02:27 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 00:02:36 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 00:02:38 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 00:02:40 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 00:02:41 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 00:02:44 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 00:02:44 Asia/Kolkata] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/domexcp/public_html/main/connect.php on line 6
+[18-May-2014 05:51:04 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/domexcp/public_html/main/adde.php on line 38
+[18-May-2014 09:32:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/domexcp/public_html/main/view_products.php on line 35
+[18-May-2014 09:32:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/domexcp/public_html/main/view_products.php on line 35
+[18-May-2014 09:32:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:32:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:32:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:32:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:33:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:33:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:33:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:33:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
+[18-May-2014 09:33:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/domexcp/public_html/main/view_products.php on line 45
