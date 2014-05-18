@@ -17,8 +17,11 @@ public class MainActivity extends  DroidGap  {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		super.loadUrl("http://www.domexedata.in/main/");
-
+		super.setIntegerProperty("splashscreen", R.drawable.splash);
+	
+		super.loadUrl("file:///android_asset/www/main.html", 3000);
+		super.setIntegerProperty("loadUrlTimeoutValue", 6000); 
+		super.setStringProperty("errorUrl", "file:///android_asset/www/main.html?opps=1");
 		
 	}
 
@@ -58,5 +61,6 @@ public class MainActivity extends  DroidGap  {
 			return rootView;
 		}
 	}
+	
 
 }
